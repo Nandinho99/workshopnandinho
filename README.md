@@ -1,4 +1,3 @@
 # workshopnandinho
-* Linha1   
-* Linha2   
+* Linha1
   * Sublinha
